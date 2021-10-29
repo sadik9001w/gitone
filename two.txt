@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./oct10.css">
+</head>
+<body>
+
+
+     <button onclick="myFunction()">TRY IT</button>
+    <h1 id="sad">HELLO SADIK WHATS UP MAN Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure ullam eius reprehenderit nostrum nihil. Aut earum, optio pariatur debitis saepe, eum assumenda, nisi nobis minima velit maxime deserunt iure! Odio atque non laudantium nam aut reiciendis nemo, soluta sequi cupiditate reprehenderit aspernatur vitae veniam iusto! Cum minus labore optio beatae.
+        
+    </h1>
+ 
+    <p>AN IMAGE WITH <img src="./pic_bulboff.gif" alt="">
+        LIGHT OFF 
+    </p>
+    <h1>HELLO SADIK WHATS UP MAN</h1>
+    <h1>HELLO SADIK WHATS UP MAN</h1>
+    <h1>HELLO SADIK WHATS UP MAN</h1>
+    <h1>HELLO SADIK WHATS UP MAN</h1>
+    <h1>HELLO SADIK WHATS UP MAN</h1>
+    <h1>HELLO SADIK WHATS UP MAN</h1>
+    <h1>HELLO SADIK WHATS UP MAN</h1>
+    <h1>HELLO SADIK WHATS UP MAN</h1>
+    <h1>HELLO SADIK WHATS UP MAN</h1>
+    <h1>HELLO SADIK WHATS UP MAN</h1>
+    <h1>HELLO SADIK WHATS UP MAN</h1>
+    <h1>HELLO SADIK WHATS UP MAN</h1>
+    <h1>HELLO SADIK WHATS UP MAN</h1>
+    <h1>HELLO SADIK WHATS UP MAN</h1>
+    <h1>HELLO SADIK WHATS UP MAN</h1>
+
+
+    <i class="fas fa-cloud"></i>
+    <i class="fas fa-heart"></i>
+    <i class="fas fa-car"></i>
+    <i class="fas fa-file"></i>
+    <i class="fas fa-bars"></i>
+
+
+<ul>
+    <li><a href="google.com">A</a></li>
+    <li><a href="google.com">B</a></li>
+    <li><a href="google.com">C</a></li>
+    <li><a href="google.com">D</a></li>
+</ul>
+<ol>
+    <li>ABCD</li>
+    <li>ABCD</li>
+    <li>ABCD</li>
+    <li>ABCD</li>
+</ol>
+
+<table id="customer">
+    <tr>
+        <th>Company</th>
+        <th>Contact</th>
+        <th>Country</th>
+      </tr>
+      <tr>
+        <td>Alfreds Futterkiste</td>
+        <td>Maria Anders</td>
+        <td>Germany</td>
+      </tr>
+      <tr>
+        <td>Berglunds snabbköp</td>
+        <td>Christina Berglund</td>
+        <td>Sweden</td>
+      </tr>
+      <tr>
+        <td>Centro comercial Moctezuma</td>
+        <td>Francisco Chang</td>
+        <td>Mexico</td>
+      </tr>
+      <tr>
+        <td>Ernst Handel</td>
+        <td>Roland Mendel</td>
+        <td>Austria</td>
+      </tr>
+      <tr>
+        <td>Island Trading</td>
+        <td>Helen Bennett</td>
+        <td>UK</td>
+      </tr>
+      <tr>
+        <td>Königlich Essen</td>
+        <td>Philip Cramer</td>
+        <td>Germany</td>
+      </tr>
+      <tr>
+        <td>Laughing Bacchus Winecellars</td>
+        <td>Yoshi Tannamuri</td>
+        <td>Canada</td>
+      </tr>
+      <tr>
+        <td>Magazzini Alimentari Riuniti</td>
+        <td>Giovanni Rovelli</td>
+        <td>Italy</td>
+      </tr>
+      <tr>
+        <td>North/South</td>
+        <td>Simon Crowther</td>
+        <td>UK</td>
+      </tr>
+      <tr>
+        <td>Paris spécialités</td>
+        <td>Marie Bertrand</td>
+        <td>France</td>
+      </tr>
+    </table>
+</table>
+
+
+<div class="daf">
+    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perferendis cum quas iusto pariatur commodi recusandae dolor est hic magnam quam?
+
+</div>
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae minus excepturi error quas fugit ab in eligendi sint, dicta doloribus! Impedit nesciunt illum fugit debitis, exercitationem fuga provident voluptate animi non molestias quam, et quaerat maxime illo voluptas laboriosam autem. Eveniet nesciunt repudiandae omnis voluptatum unde odio repellendus blanditiis? Ipsam fugit provident labore illo nihil suscipit ea sapiente id quibusdam, exercitationem soluta mollitia, quos ex, officiis ad consequuntur eaque molestiae ullam! Odit expedita unde dolorum nobis, quo voluptates. Dicta laboriosam quia accusantium dolorum odit blanditiis maxime perferendis assumenda autem minus. Esse beatae reiciendis veritatis officia saepe quaerat vitae iure atque?</p>
+
+<ul>
+    <li>sadik</li>
+    <li>sadik</li>
+    <li>sadik</li>
+    <li>sadik</li>
+    <li>sadik</li>
+    <li>sadik</li>
+    <li>sadik</li>
+    <li>sadik</li>
+    <li>sadik</li>
+    <li>sadik</li>
+    <li>sadik</li>
+    <li>sadik</li>
+    <li>sadik</li>
+</ul>
+
+<div style="padding-bottom:2000px">
+    <p>In this example, the sticky element sticks to the top of the page (top: 0), when you reach its scroll position.</p>
+    <p>Scroll back up to remove the stickyness.</p>
+    <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
+    <p>Some text to enable scrolling.. Lorem ipsum dolor sit amet, illum definitiones no quo, maluisset concludaturque et eum, altera fabulas ut quo. Atqui causae gloriatur ius te, id agam omnis evertitur eum. Affert laboramus repudiandae nec et. Inciderint efficiantur his ad. Eum no molestiae voluptatibus.</p>
+  </div>
+  
+
+<h1>THIS IS BULLSHIT BITCH</h1>
+
+<img class="dc" src="./pic_bulboff.gif" alt="">
+
+<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Dignissimos, quaerat ut aliquid sit odit eos eveniet culpa consectetur? Deleniti, aliquam?</p>
+
+<div class="container">
+    <div class="a">BLACJ BOS</div>
+    <div class="b">PINK BOX</div>
+    <div class="c">GREEN BOX</div>
+    <div class="d">BLUE BOX</div>
+</div>
+<div id="overflowTest">This text is really long and the height of its container is only 100 pixels. Therefore, a scrollbar is added to help the reader to scroll the content. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Typi non habent claritatem insitam; est usus legentis in iis qui facit eorum claritatem.</div>
+
+
+
+<form action="/action_page.php">
+<input type="text" name="search" id="search" placeholder="search here">
+</form>
+
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    <script src="./oct10.js"></script>
+</body>
+</html>
